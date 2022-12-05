@@ -10,4 +10,4 @@ This is my first odin-related project, so it will not look good at all. Later, I
 
 * Understood the best practices when regarding to commit msgs and web 
 
-* Got a better grasp in git!
+* Got a better grasp of git!
